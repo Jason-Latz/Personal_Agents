@@ -1,2 +1,5 @@
 pydantic>=1.10
 websockets>=10.0
+
+# Additional requirements for the NVIDIA LangChain agent are listed in
+# `nvidia_langchain_agent/requirements.txt`.
