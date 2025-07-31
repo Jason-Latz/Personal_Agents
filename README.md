@@ -1,6 +1,6 @@
 # Personal_Agents
 
-This repository contains sample projects exploring agentic AI with Pydantic models and simple MCP server interactions.
+I'm trying to experiment with projects exploring agentic AI with Pydantic models and simple MCP server interactions!
 
 ## Projects
 - **pydantic_agent** – Toy agent using Pydantic for typed messages.
